@@ -8,13 +8,13 @@
 - p03-area-triangulo
 - p04-paga-trabajador
 - p04-paga-trabajador
+
+
+
+## Actividad 2
 - p05-operaciones-matematicas
 - p06-promedio-calificaciones
 - p07-operadores-asignacion
 - p08-funciones-trigonometricas
 - p09-dividir-en-cifras
 
-
-
-## Actividad 2
-- Programa 3
