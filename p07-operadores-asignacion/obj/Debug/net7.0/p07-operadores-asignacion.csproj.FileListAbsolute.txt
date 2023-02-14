@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\bin\Debug\net7.0\p07-operadores-asignacion.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\bin\Debug\net7.0\p07-operadores-asignacion.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\bin\Debug\net7.0\p07-operadores-asignacion.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\bin\Debug\net7.0\p07-operadores-asignacion.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\bin\Debug\net7.0\p07-operadores-asignacion.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\refint\p07-operadores-asignacion.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\p07-operadores-asignacion.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p07-operadores-asignacion\obj\Debug\net7.0\ref\p07-operadores-asignacion.dll
