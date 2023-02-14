@@ -7,6 +7,13 @@
 - p02-area-circulo
 - p03-area-triangulo
 - p04-paga-trabajador
+- p04-paga-trabajador
+- p05-operaciones-matematicas
+- p06-promedio-calificaciones
+- p07-operadores-asignacion
+- p08-funciones-trigonometricas
+- p09-dividir-en-cifras
+
 
 
 ## Actividad 2
