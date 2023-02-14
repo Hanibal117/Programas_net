@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = p04_paga_trabajador
-build_property.ProjectDir = c:\Users\JESUS\Documents\2023\Clases\Programas_net\p04-paga-trabajador\
+build_property.RootNamespace = p05_operaciones_matematicas
+build_property.ProjectDir = C:\Users\JESUS\Documents\2023\Clases\Programas_net\p05-operaciones-matematicas\

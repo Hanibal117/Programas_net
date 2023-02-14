@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\bin\Debug\net7.0\p06-promedio-calificaciones.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\refint\p06-promedio-calificaciones.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\p06-promedio-calificaciones.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p06-promedio-calificaciones\obj\Debug\net7.0\ref\p06-promedio-calificaciones.dll
