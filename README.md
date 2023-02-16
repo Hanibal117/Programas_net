@@ -18,3 +18,7 @@
 - p08-funciones-trigonometricas
 - p09-dividir-en-cifras
 
+## Actividad 3
+- p10-trabajando-enteros
+
+
