@@ -20,5 +20,9 @@
 
 ## Actividad 3
 - p10-trabajando-enteros
+- p11-trabajando-flotantes
+- p12-trabajando-constantes
+- p13-trabajando-caracter
+- p14-conversion-tipos
 
 
