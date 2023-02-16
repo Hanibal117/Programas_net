@@ -1,5 +1,5 @@
 ﻿// Trabajando con números enteros
-
+cd .
 int num1 = 42;
 int num2 = 0x2A;
 int num3 = 0b00101010;

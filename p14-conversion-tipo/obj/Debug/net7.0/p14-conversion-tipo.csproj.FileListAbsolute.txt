@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\bin\Debug\net7.0\p14-conversion-tipo.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\bin\Debug\net7.0\p14-conversion-tipo.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\bin\Debug\net7.0\p14-conversion-tipo.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\bin\Debug\net7.0\p14-conversion-tipo.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\bin\Debug\net7.0\p14-conversion-tipo.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\refint\p14-conversion-tipo.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\p14-conversion-tipo.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p14-conversion-tipo\obj\Debug\net7.0\ref\p14-conversion-tipo.dll
