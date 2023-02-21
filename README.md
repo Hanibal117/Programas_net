@@ -31,3 +31,11 @@
 - p23-convertir-temperatura
 - p24-paga-extra
 
+
+## Tarea 1 - Elementos básicos
+- p15-hipotenusa-triangulo
+- p16-calcular-angulo
+- p17-convertir-temperatura
+- p18-volumen-cilindro
+- p19–calculo-tiempo
+- p20-convertir-a-dolares
