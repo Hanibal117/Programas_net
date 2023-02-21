@@ -23,3 +23,10 @@ Console.WriteLine($"\nTipo: int, \nMin: {int.MinValue} Max: {int.MaxValue}");
 Console.WriteLine($"\nTipo: short, \nMin: {short.MinValue} Max: {short.MaxValue}");
 Console.WriteLine($"\nTipo: long, \nMin: {long.MinValue} Max: {long.MaxValue}");
 Console.WriteLine($"\nTipo: ulong, \nMin: {ulong.MinValue} Max: {ulong.MaxValue}");
+
+
+
+
+
+
+
