@@ -25,4 +25,9 @@
 - p13-trabajando-caracter
 - p14-conversion-tipos
 
+## Actividad 4
+- p21-verifica-numero
+- p22-verifica-suma
+- p23-convertir-temperatura
+- p24-paga-extra
 
