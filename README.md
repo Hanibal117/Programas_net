@@ -41,7 +41,7 @@
 - p20-convertir-a-dolares
 
 ## Actividad 5
-p25-estaciones-año
-p26-tipo-angulo
-p27-aceptar-estudiante
-p28-ley-de-newton
+- p25-estaciones-año
+- p26-tipo-angulo
+- p27-aceptar-estudiante
+- p28-ley-de-newton
