@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\bin\Debug\net7.0\p31–numeros-romanos.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\bin\Debug\net7.0\p31–numeros-romanos.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\bin\Debug\net7.0\p31–numeros-romanos.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\bin\Debug\net7.0\p31–numeros-romanos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\bin\Debug\net7.0\p31–numeros-romanos.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\refint\p31–numeros-romanos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\p31–numeros-romanos.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p31–numeros-romanos\obj\Debug\net7.0\ref\p31–numeros-romanos.dll
