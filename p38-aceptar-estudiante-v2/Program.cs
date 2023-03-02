@@ -1,65 +1,42 @@
-﻿void Menu() {
-    Console.Clear();
-    Console.WriteLine("Elija como quiere armar su pizza:");
-    Console.WriteLine("Tamano : [C]hica - $5 [M]ediana - $10 [G]rande - $15");
-    Console.WriteLine("Ingredientes : [E]xtra queso [C]hampinoness [P]ina, unidos por un '+' - $5 por ingrediente");
-    Console.WriteLine("Cubierta : [D]elgada [G]ruesa");
-    Console.WriteLine("Donde : [A]qui [L]levar ");
-}
+﻿// Dado el nombre del estudiante, sexo (h/m), su edad y tres calificaciones, decidir si el estudiante es aceptado. La
+//Universidad Kitty Kat SA es solo para mujeres mayores de 21 años con un promedio de entre 8 y 9.5.
 
-char tam, cub, don;
-string[] ings;
-string tamano = "", ingredientes = "", cubierta = "", donde = "", cliente = "";
-float subtot = 0, desc = 0, total = 0, cant = 0;
+   Console.Write("Ingrese el nombre del estudiante: ");
+        string nombre = Console.ReadLine();
 
-if(args.Length < 5) {
-    Menu();
-    return 1;
-}
-//Procesar Tamano
-tam = char.Parse(args[0].ToUpper());
-if(tam == 'C'){tamano = "Chica"; subtot+=5;}
-else if(tam == 'M'){tamano = "Mediana"; subtot+=10;}
-else {tamano = "Grande"; subtot+=15;}
+        //h = hembra
+        //m = macho
+        Console.Write("Ingrese el sexo del estudiante (h/m): ");
+        char sexo = char.ToLower(Console.ReadKey().KeyChar);
 
-//Proesar Ingredientes
-ings = args[1].Split("+");
-foreach(string ing in ings){
-    switch(char.Parse(ing.ToUpper())){
-        case 'E' : ingredientes += "Extraqueso "; break;
-        case 'C' : ingredientes += "Champinones "; break;
-        case 'P' : ingredientes += "Pina "; break;
-    }
-    subtot += 5;
-}
+        Console.Write("\nIngrese la edad del estudiante: ");
+        int edad = int.Parse(Console.ReadLine());
 
-//Procesar Cubierta
-cub = char.Parse(args[2].ToUpper());
-cubierta = (cub == 'D' ? "Delgada" : "Gruesa");
+        Console.Write("Ingrese la primera calificación: ");
+        double calif1 = double.Parse(Console.ReadLine());
 
-//Procesar Donde
-don = char.Parse(args[3].ToUpper());
-donde = (don == 'A' ? "Aqui" : "Llevar");
+        Console.Write("Ingrese la segunda calificación: ");
+        double calif2 = double.Parse(Console.ReadLine());
 
-//Procesar Cantidad
-cant = float.Parse(args[4]);
-subtot = subtot * cant;
+        Console.Write("Ingrese la tercera calificación: ");
+        double calif3 = double.Parse(Console.ReadLine());
 
-//Procesar Descuento
-if(subtot < 1000){desc = 0.0f; cliente = "Platino";}
-else if(subtot <2000){desc = 0.10f; cliente = "Plata";}
-else {desc = 0.20f; cliente = "Oro";}
+        bool esAceptado = false;
+        if (sexo == 'm') {
+            Console.WriteLine("\nLo siento, la Universidad Kitty Kat SA es solo para mujeres.");
+        } else if (edad < 21) {
+            Console.WriteLine("\nLo siento, la Universidad Kitty Kat SA es solo para mujeres mayores de 21 años.");
+        } else if (calif1 < 0 || calif2 < 0 || calif3 < 0) {
+            Console.WriteLine("\nLas calificaciones no pueden ser negativas.");
+        } else {
+            double promedio = (calif1 + calif2 + calif3) / 3.0;
+            if (promedio >= 8.0 && promedio <= 9.5) {
+                esAceptado = true;
+            }
+        }
 
-total = subtot - (subtot * desc);
-
-Console.WriteLine($"Tamano:         {tamano}");
-Console.WriteLine($"Ingredientes:   {ingredientes}");
-Console.WriteLine($"Cubierta:       {cubierta}");
-Console.WriteLine($"Donde:          {donde}");
-Console.WriteLine($"Cantidad:       {cant}");
-Console.WriteLine($"Subtotal:       {subtot:c}");
-Console.WriteLine($"Eres Cliente:   {cliente}");
-Console.WriteLine($"Descuento:      {desc:p2}");
-Console.WriteLine($"Total:          {total:c}");
-
-return 0;
+        if (esAceptado) {
+            Console.WriteLine("\n¡Felicidades, " + nombre + ", has sido aceptada en la Universidad Kitty Kat SA!");
+        } else {
+            Console.WriteLine("\nLo siento, " + nombre + ", no cumples con los requisitos para ser aceptada en la Universidad Kitty Kat SA.");
+        }
