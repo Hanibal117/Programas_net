@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\bin\Debug\net7.0\p35-contientes-mundo.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\bin\Debug\net7.0\p35-contientes-mundo.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\bin\Debug\net7.0\p35-contientes-mundo.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\bin\Debug\net7.0\p35-contientes-mundo.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\bin\Debug\net7.0\p35-contientes-mundo.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\refint\p35-contientes-mundo.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\p35-contientes-mundo.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p35-contientes-mundo\obj\Debug\net7.0\ref\p35-contientes-mundo.dll
