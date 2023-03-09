@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\bin\Debug\net7.0\p45-conteo-numeros.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\refint\p45-conteo-numeros.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\p45-conteo-numeros.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p45-conteo-numeros\obj\Debug\net7.0\ref\p45-conteo-numeros.dll

@@ -57,4 +57,13 @@
 ## Actividades listas
 - EP1
 
+## Actividades listas
+- EP1
+- p41-numeros-1-a-10
+- p42-numeros-100-1
+- p43-procesa-calificaciones
+- p44-tabla-multiplicar
+- p45-conteo-numeros
+
+
 
