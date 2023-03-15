@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\bin\Debug\net7.0\p48–tabla-de-conversion.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\bin\Debug\net7.0\p48–tabla-de-conversion.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\bin\Debug\net7.0\p48–tabla-de-conversion.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\bin\Debug\net7.0\p48–tabla-de-conversion.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\bin\Debug\net7.0\p48–tabla-de-conversion.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\refint\p48–tabla-de-conversion.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\p48–tabla-de-conversion.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p48–tabla-de-conversion\obj\Debug\net7.0\ref\p48–tabla-de-conversion.dll

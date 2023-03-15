@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\bin\Debug\net7.0\p46–pares-ascendente.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\bin\Debug\net7.0\p46–pares-ascendente.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\bin\Debug\net7.0\p46–pares-ascendente.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\bin\Debug\net7.0\p46–pares-ascendente.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\bin\Debug\net7.0\p46–pares-ascendente.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\refint\p46–pares-ascendente.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\p46–pares-ascendente.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p46–pares-ascendente\obj\Debug\net7.0\ref\p46–pares-ascendente.dll

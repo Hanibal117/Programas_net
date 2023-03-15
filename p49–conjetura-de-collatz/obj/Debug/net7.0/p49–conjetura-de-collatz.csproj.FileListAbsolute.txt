@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\bin\Debug\net7.0\p49–conjetura-de-collatz.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\bin\Debug\net7.0\p49–conjetura-de-collatz.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\bin\Debug\net7.0\p49–conjetura-de-collatz.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\bin\Debug\net7.0\p49–conjetura-de-collatz.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\bin\Debug\net7.0\p49–conjetura-de-collatz.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\refint\p49–conjetura-de-collatz.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\p49–conjetura-de-collatz.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p49–conjetura-de-collatz\obj\Debug\net7.0\ref\p49–conjetura-de-collatz.dll
