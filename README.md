@@ -52,18 +52,47 @@
 - p31-numero-romano
 - p32-pago-estacionamiento
 
-## Actividades listas
-- p33-39
-## Actividades listas
-- EP1
+## Tarea 2
+- p33 numeros-consecutivos Completado
+- p34 numero-mayor Completado
+- p35 continentes-mundo Completado
+- p36 compra-pizza Completado
+- p37 calculo-notas Completado
+- p38 aceptar-estudiante-v2 Completado
 
 ## Actividades listas
-- EP1
+- p39Repaso de Examen
+## Actividades listas
+- p40 EP1
+
+## Actividad 08
 - p41-numeros-1-a-10
 - p42-numeros-100-1
 - p43-procesa-calificaciones
 - p44-tabla-multiplicar
 - p45-conteo-numeros
+
+## Actividad 09
+- p46 pares-ascendente Completado
+- p47 impares-descendente Completado
+- p48 tabla-de-conversion Completado
+- p49 conjetura-de-collatz Completado
+
+## Tarea 3 
+- p50 impares-ascendente Completado
+- p51 pares-descendente Completado
+- p52 conversion-temperaturas Completado
+- p53 serie-fibonaci Completado
+
+## Actividad 10
+- p54 numeros-1-n Completado
+- p55 numeros-n-1 Completado
+- p56 arriba-abajo Completado
+- p57 suma-pares-impares Completado
+- p58 suma-promedio Completado 
+
+
+
 
 
 
