@@ -98,6 +98,10 @@
 - p62-suma-terminos
 
 ## Tarea 4
+- p63-secuencia-numeros-1
+- p64-secuencia-numeros-2
+- p65-suma-terminos-1
+- p66-suma-terminos-2
 
 
 
