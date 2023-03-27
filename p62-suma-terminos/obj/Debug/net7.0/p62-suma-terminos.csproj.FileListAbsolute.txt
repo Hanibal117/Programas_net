@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\bin\Debug\net7.0\p62-suma-terminos.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\bin\Debug\net7.0\p62-suma-terminos.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\bin\Debug\net7.0\p62-suma-terminos.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\bin\Debug\net7.0\p62-suma-terminos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\bin\Debug\net7.0\p62-suma-terminos.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\refint\p62-suma-terminos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\p62-suma-terminos.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p62-suma-terminos\obj\Debug\net7.0\ref\p62-suma-terminos.dll
