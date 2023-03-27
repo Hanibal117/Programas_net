@@ -91,6 +91,15 @@
 - p57 suma-pares-impares Completado
 - p58 suma-promedio Completado 
 
+## Actividad 11
+- p59-tablas-multiplicar
+- p60-piramide
+- p61-factorial-numeros
+- p62-suma-terminos
+
+## Tarea 4
+
+
 
 
 
