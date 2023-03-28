@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\bin\Debug\net7.0\p69-suma-rango.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\bin\Debug\net7.0\p69-suma-rango.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\bin\Debug\net7.0\p69-suma-rango.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\bin\Debug\net7.0\p69-suma-rango.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\bin\Debug\net7.0\p69-suma-rango.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\refint\p69-suma-rango.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\p69-suma-rango.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p69-suma-rango\obj\Debug\net7.0\ref\p69-suma-rango.dll

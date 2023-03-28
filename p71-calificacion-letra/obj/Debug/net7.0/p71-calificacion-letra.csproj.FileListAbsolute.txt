@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\refint\p71-calificacion-letra.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p71-calificacion-letra\obj\Debug\net7.0\ref\p71-calificacion-letra.dll
