@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\bin\Debug\net7.0\p75-factorial.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\bin\Debug\net7.0\p75-factorial.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\bin\Debug\net7.0\p75-factorial.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\bin\Debug\net7.0\p75-factorial.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\bin\Debug\net7.0\p75-factorial.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\refint\p75-factorial.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\p75-factorial.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p75-factorial\obj\Debug\net7.0\ref\p75-factorial.dll
