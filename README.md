@@ -117,7 +117,15 @@
 - p75-factorial
 - p76-cuadro-caracter 
 
+## Actividad 14
+- p77-numero-menor
+- p78-dia-semana 
+- p79-medidas-longitud  
+- p80-suma-multiplos
+- p81–angulo
 
+## Tarea 14 - Repaso segundo parcial
+- p82-repaso-parcial-2
 
 
 
