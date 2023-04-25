@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\bin\Debug\net7.0\p80-suma-multiplos.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\refint\p80-suma-multiplos.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\p80-suma-multiplos.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p80-suma-multiplos\obj\Debug\net7.0\ref\p80-suma-multiplos.dll

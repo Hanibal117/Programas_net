@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\bin\Debug\net7.0\p78-dia-semana.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\refint\p78-dia-semana.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\p78-dia-semana.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p78-dia-semana\obj\Debug\net7.0\ref\p78-dia-semana.dll
