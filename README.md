@@ -125,7 +125,9 @@
 - p81–angulo
 
 ## Tarea 14 - Repaso segundo parcial
-- p82-repaso-parcial-2
+- p82-repaso-parcial-3
+- p83-examen-parcial-3
+
 
 
 
