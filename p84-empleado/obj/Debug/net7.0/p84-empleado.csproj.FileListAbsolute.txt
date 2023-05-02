@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\bin\Debug\net7.0\p84-empleado.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\bin\Debug\net7.0\p84-empleado.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\bin\Debug\net7.0\p84-empleado.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\bin\Debug\net7.0\p84-empleado.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\bin\Debug\net7.0\p84-empleado.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\refint\p84-empleado.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\p84-empleado.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-empleado\obj\Debug\net7.0\ref\p84-empleado.dll

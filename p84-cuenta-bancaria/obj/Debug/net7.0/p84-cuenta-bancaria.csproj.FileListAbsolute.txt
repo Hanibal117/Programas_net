@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\bin\Debug\net7.0\p84-cuenta-bancaria.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\bin\Debug\net7.0\p84-cuenta-bancaria.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\bin\Debug\net7.0\p84-cuenta-bancaria.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\bin\Debug\net7.0\p84-cuenta-bancaria.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\bin\Debug\net7.0\p84-cuenta-bancaria.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\refint\p84-cuenta-bancaria.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\p84-cuenta-bancaria.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p84-cuenta-bancaria\obj\Debug\net7.0\ref\p84-cuenta-bancaria.dll
