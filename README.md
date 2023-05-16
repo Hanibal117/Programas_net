@@ -128,6 +128,20 @@
 - p82-repaso-parcial-3
 - p83-examen-parcial-3
 
+## Actividad 14
+- p84-empleado
+- p85-cuenta-bancaria-v1
+
+## Actividad 15
+- p86-cuenta-bancaria-v2
+
+
+## Actividad 16
+- 87-control-escolar
+
+## Tarea 17
+- 88-control-escolar-v2
+
 
 
 
