@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3ba+81jhOZUKXisHx0I+7rLfc/EEVmawWTJbK0i/MLD+b/LsDuvI3l0EeDY7J4ISw431+cf6y+56LU84PdSpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JESUS\\Documents\\2023\\Clases\\Programas_net\\p89-control-escolar-v3\\p89-control-escolar-v3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JESUS\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\JESUS\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
