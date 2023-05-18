@@ -1,0 +1,15 @@
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\bin\Debug\net7.0\p90-examen-parcial-3.exe
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\bin\Debug\net7.0\p90-examen-parcial-3.deps.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\bin\Debug\net7.0\p90-examen-parcial-3.runtimeconfig.json
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\bin\Debug\net7.0\p90-examen-parcial-3.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\bin\Debug\net7.0\p90-examen-parcial-3.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.csproj.AssemblyReference.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.AssemblyInfoInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.AssemblyInfo.cs
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.csproj.CoreCompileInputs.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\refint\p90-examen-parcial-3.dll
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.pdb
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\p90-examen-parcial-3.genruntimeconfig.cache
+C:\Users\JESUS\Documents\2023\Clases\Programas_net\p90-examen-parcial-3\obj\Debug\net7.0\ref\p90-examen-parcial-3.dll
