@@ -142,6 +142,14 @@
 ## Tarea 17
 - 88-control-escolar-v2
 
+## Actividad 18
+- 89-control-escolar-v3
+
+## Tercer examen parcial
+- p90-tercer-examen-parcial
+
+
+
 
 
 
